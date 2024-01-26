@@ -10,6 +10,10 @@
 
 ![After](IMG/After.png)
 
+## See the themes
+
+[Themes](https://github.com/spicetify/spicetify-themes/tree/master)
+
 ## English
 
 ---
