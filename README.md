@@ -12,11 +12,15 @@
 
 ## See the themes
 
-[Themes](https://github.com/spicetify/spicetify-themes/tree/master)
+### [Themes](https://github.com/spicetify/spicetify-themes/tree/master)
+
+## Installation Guide
+
+### [English ](#english)
+
+### [Español ](#spanish)
 
 ## English
-
----
 
 ### Using Homebrew to install spicetify
 
@@ -92,9 +96,7 @@ git clone https://github.com/spicetify/spicetify-themes.git
 
 ### When Spotify is open reboot or open the app to see the theme
 
----
-
-## Español
+## Spanish
 
 ### Para hacer el cambio se hace uso de HomeBrew, con el siguiente comando:
 
